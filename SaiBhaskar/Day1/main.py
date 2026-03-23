@@ -6,4 +6,4 @@ def home():
 
 @app.get("/hello")
 def hello():
-    return{"message":"Hi! I  am Shruthi's first API"}
+    return{"message":"Hi! I  am sai"}
